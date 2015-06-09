@@ -1,0 +1,1 @@
+setClass("Stack", representation=representation(list="list",state="numeric"))
