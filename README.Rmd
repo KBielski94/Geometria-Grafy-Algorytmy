@@ -1,7 +1,6 @@
 ---
 title: "Geometria, grafy, algorytmy: 2014/2015"
 author: "Mateusz Miotk"
-date: "9 czerwca 2015"
 output:
   html_document:
     toc: true
